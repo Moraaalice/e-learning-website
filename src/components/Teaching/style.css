@@ -1,0 +1,33 @@
+.platform{
+    padding-top: 100px;
+    font-size: 60px;
+}
+
+.icon-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+
+.image img{
+    padding-top: 100px;
+}
+#span{
+    color: #7615EB;
+}
+
+#icon{
+  background-color: #7615EB; 
+  border-radius: 50%; 
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+#span2{
+    padding-left: 15px;
+    font-size: 20px;
+}
+

@@ -1,0 +1,63 @@
+.container2{
+    margin-left: 150px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.quality h2{
+    font-size: 55px;
+}
+
+.quality p{
+    color: #1A0244;
+}
+
+#btn{
+    border-radius: 25px;
+    width: 120px;
+    padding: 13px;
+    background-color:#F0D534 ;
+    border: none;
+    font-weight: bolder;
+}
+
+
+.getStart {
+    display: flex; 
+    align-items: center; 
+    font-size: 2.5rem;
+  }
+
+#playcircle{
+    color: #9A12F0;
+}
+
+.numbers {
+    display: flex; 
+  }
+  #learn{
+    font-size: medium;
+  }
+  
+
+  .numbers {
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+  }
+ 
+  
+  h4, p {
+    margin: 0; 
+  }
+  
+  
+
+  
+  
+  
+  
+
+
+
+
+

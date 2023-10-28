@@ -1,0 +1,44 @@
+.talent-container{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.talent h2{
+    text-align: center;
+    font-size: 45px;
+}
+
+.instructors-pics{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img-1 img{
+    height: 250px;
+}
+
+.img-2 img{
+    height: 250px;
+}
+
+.img-1 p{
+    margin-left: 50px;
+    font-size: 19px;
+}
+
+.img-1 h4{
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.img-2 p{
+    margin-left: 80px;
+    font-size: 19px;
+}
+
+.img-2 h4{
+    margin-left: 80px;
+    font-size: 25px;
+}
+

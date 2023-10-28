@@ -1,0 +1,91 @@
+.feedback h2{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.baby-images{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.baby-images img{
+    width: 100px;
+}
+
+.bab-img1 img{
+    border-radius: 50%;
+    background-color: #E68215;
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+
+}
+
+.bab-img2 img{
+    border-radius: 50%;
+    background-color: #15A0E6;
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+}
+
+.bab-img3 img{
+    border-radius: 50%;
+    background-color: #E61515;
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+
+}
+#star{
+    color:#F0D534 ;
+}
+
+.bab-img1{
+    background-color: #E2E6CA;
+    border-radius: 15px;
+
+}
+
+
+.bab-img2{
+    background-color: #E2E6CA;
+    border-radius: 15px;
+    width: 290px;
+}
+
+.bab-img3{
+    background-color: #E2E6CA;
+    border-radius: 15px;
+}
+
+.bab-img1 h4{
+    margin-left: 100px;
+}
+
+.bab-img2 h4{
+    margin-left: 100px;
+}
+
+.bab-img3 h4{
+    margin-left: 100px;
+}
+
+.bab-img1 p{
+    text-align: center; 
+}
+
+.bab-img2 p{
+    text-align: center; 
+}
+
+.bab-img3 p{
+    text-align: center; 
+}
+
+.feedback-container{
+    padding-bottom: 150px;
+}
